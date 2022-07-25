@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oLhl4Uk4j7RaencsiAEr7jMQO0uCabG2kVCUMS8y0+DQOP6o+x2+aA0VfDsybrchE0hS82+DtTIzhAzTHVmESQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programação\\SENAC\\M1\\Estruturar\\CADProdutos\\CADProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raul Paiva\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
